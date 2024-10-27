@@ -1,0 +1,12 @@
+***What is Cloud Computing?
+Cloud computing is a model that enables ubiquitous access to shared pools of configurable resources (like networks, servers, storage, applications) over the internet,
+allowing for rapid provision and release of these resources.
+Key Characteristics:------
+On-Demand Self-Service: Users can provision resources automatically without human intervention.
+Broad Network Access  : Services are accessible via the internet from various devices (e.g., PCs, mobile phones).
+Resource Pooling      : Resources are pooled to serve multiple users, dynamically allocating and reallocating as needed.
+Rapid Elasticity      : Resources can be scaled up or down quickly, often automatically, to meet demand.
+Measured Service      : Resource usage is monitored and reported, allowing for transparent billing and management.
+
+
+  
